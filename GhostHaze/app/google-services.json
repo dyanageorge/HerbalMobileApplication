@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "166117774193",
+    "firebase_url": "https://ghost-train-haze.firebaseio.com",
+    "project_id": "ghost-train-haze",
+    "storage_bucket": "ghost-train-haze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166117774193:android:2a1036e9d0e8b622",
+        "android_client_info": {
+          "package_name": "com.example.dyanageorge.ghosthaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166117774193-8j25se83k4tnnhu7vd93dmibgf6jeqm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dyanageorge.ghosthaze",
+            "certificate_hash": "898539d8ab694a6492947fff408f66b3bbd43e66"
+          }
+        },
+        {
+          "client_id": "166117774193-nc1rp3on7672145joni5jt27e7ft4cdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp5MVN0MtkCDQDCgFzhLSKiavD110YX3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166117774193-g008u2pfdpccebeesv8ghgshheio0vu1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166117774193-n4lpgcvtk711t9ie4pgqsbsp0e4skcgc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "IOSClass.GhostHaze"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
